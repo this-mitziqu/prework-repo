@@ -6,10 +6,7 @@ This app will allow us to introduce ourselves by accepting user inputs in variou
 
 ### App Walk-though
 
-![](https://gfycat.com/closedacclaimedjay.gif)
-
- <img src="https://gfycat.com/closedacclaimedjay.gif" width=200>
-
+![](https://media.giphy.com/media/F9DzATxsdxQqcgSBQ6/giphy.gif)
 
 ### Required Features
 
